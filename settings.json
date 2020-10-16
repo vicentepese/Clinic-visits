@@ -1,0 +1,13 @@
+{
+
+    "directory":{
+        "Data":"./Data/"
+    },
+
+    "file":{
+        "data":"./Data/data.csv"
+    },
+    
+    "balance": 1
+
+}
